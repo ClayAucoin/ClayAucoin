@@ -30,32 +30,32 @@ I've been tinkering with computers and programming since the late '90s, starting
 
 ### Languages
 
-* 🐍 Python
-* 🟨 JavaScript
-* 🌐 HTML / CSS
-* 📜 Google Apps Script
-* 🗃️ SQL
+- 🐍 Python
+- 🟨 JavaScript
+- 🌐 HTML / CSS
+- 📜 Google Apps Script
+- 🗃️ SQL
 
 ### Tools & Platforms
 
-* 🐧 Linux
-* 🌿 Git / GitHub
-* 🖥️ Proxmox
-* 💾 TrueNAS
-* 📊 Google Sheets
-* 🏠 Home Assistant
-* 🎬 Plex
+- 🐧 Linux
+- 🌿 Git / GitHub
+- 🖥️ Proxmox
+- 💾 TrueNAS
+- 📊 Google Sheets
+- 🏠 Home Assistant
+- 🎬 Plex
 
 ## 🚧 What I'm Working On
 
-* 🐍 Improving my Python skills
-* 🐧 Learning more about Linux
-* 🔎 Exploring OSINT tools and techniques
-* 🤖 Building automation and data-processing tools
-* 📊 Creating Google Sheets and Apps Script automation
-* 🏠 Experimenting with Proxmox, Linux, and my homelab
-* 🚛 Building tools and datasets for ATS / ETS2
-* 🌐 Continuing to experiment with web development
+- 🐍 Improving my Python skills
+- 🐧 Learning more about Linux
+- 🔎 Exploring OSINT tools and techniques
+- 🤖 Building automation and data-processing tools
+- 📊 Creating Google Sheets and Apps Script automation
+- 🏠 Experimenting with Proxmox, Linux, and my homelab
+- 🚛 Building tools and datasets for ATS / ETS2
+- 🌐 Continuing to experiment with web development
 
 ## 🧪 Featured Projects
 
